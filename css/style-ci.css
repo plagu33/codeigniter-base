@@ -1,0 +1,29 @@
+
+/*@import url("");*/
+
+.loading.centered 
+{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+  display: none;
+  z-index: 999;
+}
+
+.pasos {
+	display: none;
+}
+
+#video-busqueda {
+  display: none;
+}
+
+#show_cam_black{
+	display: none;
+}
+
+#botonera-instrucciones {
+  display: none;
+}
